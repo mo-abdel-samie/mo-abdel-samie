@@ -3,6 +3,25 @@
 
 #### I am a student at fucalty of engineering in computer department. 
 
+Full-Stack web developer enthusiast to develop web applications and platforms to solve business and market problems, With +3 years of experience and study a bachelor of communication and computer engineering. 
+
+Works as a full-stack web development freelancer using technologies blow and develops skills to be a MEAN stack web developer.
+
+In this phase of the career path, Seeks to be one of a development team that works with agile mindset standards to build systems, platforms, and web applications that fit the market requirements.
+
+Working technologies: 
+- React.js.
+- Angular.js
+- RESTful API.
+- PHP.
+- MySQL.
+- Laravel.
+
+Learning technologies: 
+- Node.js
+- Angular.js
+- PostgreSQL
+
 [![Mohamed-a591's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-abdel-samie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-a591&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
