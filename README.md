@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Mohamed Abdel-Samie
 <img src="https://github.com/Mohamed-a591/Mohamed-a591/blob/main/Master.png" />  
 
-#### I am a student at fucalty of engineering in computer department. 
+#### I am a student in the faculty of engineering in the computer department. 
 
-Full-Stack web developer enthusiast to develop web applications and platforms to solve business and market problems, With +3 years of experience and study a bachelor of communication and computer engineering. 
+Full-Stack web developer enthusiast to develop web applications and platforms to solve business and market problems, With +3 years of experience and a bachelor of communication and computer engineering. 
 
-Works as a full-stack web development freelancer using technologies blow and develops skills to be a MEAN stack web developer.
+Works as a full-stack web development freelancer using technologies and develops skills to be a MEAN stack web developer.
 
 In this phase of the career path, Seeks to be one of a development team that works with agile mindset standards to build systems, platforms, and web applications that fit the market requirements.
 
@@ -17,18 +17,13 @@ Working technologies:
 - MySQL.
 - Laravel.
 
-Learning technologies: 
-- Node.js
-- Angular.js
-- PostgreSQL
-
 [![Mohamed-a591's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-abdel-samie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-a591&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
 
-Skills: HTML - Css - Js - Node.js - Express - React.js
+Skills: HTML - CSS - JS - Node.js - Express - React.js
 
 <!-- - 🔭 I’m currently working on this page. 
  -->
