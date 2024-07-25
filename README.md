@@ -1,5 +1,12 @@
+<div align="center">
+ <img src="https://github.com/Mohamed-a591/Mohamed-a591/blob/main/Master.png" />  
+</div>
+
+<br>
+
 <h1 align="center">Hi there 👋, I'm Mohamed Abdel-Samie</h1>
-<img src="https://github.com/Mohamed-a591/Mohamed-a591/blob/main/Master.png" />  
+
+
 
 Software engineer enthusiast who develops web applications and platforms to solve business and market problems. I have +4 years of experience and a bachelor of Communication and Computer Engineering. 
 
