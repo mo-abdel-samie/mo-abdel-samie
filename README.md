@@ -10,7 +10,7 @@
 
 Software engineer enthusiast who develops web applications and platforms to solve business and market problems. I have +4 years of experience and a bachelor of Communication and Computer Engineering. 
 
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=mo-abdel-samie&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mo-abdel-samie&bg_color=30,FF9933,CC6600&title_color=FFF&text_color=fff)
 
 
 <h2>My Tools:</h2>
