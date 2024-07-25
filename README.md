@@ -14,9 +14,39 @@ Software engineer enthusiast who develops web applications and platforms to solv
 
 
 <h2>My Tools:</h2>
-<p align="center">
+
+<h3>Programming Languages</h3>
+<p>
   <a href="https://www.linkedin.com/in/mo-abdel-samie/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,babel,react,regex,redux,electron,tauri,windows,ubuntu,linux,kali,powershell,bash,nginx,git,github,githubactions,md,docker,postman,bootstrap,tailwind,nodejs,phpstorm,laravel,postgres,wordpress,postman,vercel,vite,c,cpp,vim,emacs,vscode,discord,bots,stackoverflow,codepen,figma,azure,gcp,notion,gmail" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cpp,bash,md" />
+  </a>
+</p>
+
+<h3>Web Development Technologies</h3>
+<p>
+  <a href="https://www.linkedin.com/in/mo-abdel-samie/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,babel,react,redux,vite,wordpress,nodejs,laravel,postgres" />
+  </a>
+</p>
+
+<h3>Desktop Development Technologies</h3>
+<p>
+  <a href="https://www.linkedin.com/in/mo-abdel-samie/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=electron,tauri" />
+  </a>
+</p>
+
+<h3>Development Tools</h3>
+<p>
+  <a href="https://www.linkedin.com/in/mo-abdel-samie/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,powershell,docker,nginx,postman,vim,emacs,vscode,phpstorm,discord,bots,stackoverflow,figma,codepen" />
+  </a>
+</p>
+
+<h3>Management Tools</h3>
+<p>
+  <a href="https://www.linkedin.com/in/mo-abdel-samie/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github,githubactions,azure,gcp,notion,vercel,gmail" />
   </a>
 </p>
   
