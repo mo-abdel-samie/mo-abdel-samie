@@ -36,26 +36,8 @@ I'm a **Senior Software Engineer** with **4+ years of experience** building full
 
 <div align="center">
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=mo-abdel-samie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-       alt="GitHub Stats" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-abdel-samie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-       alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
   <img src="https://streak-stats.demolab.com/?user=mo-abdel-samie&theme=tokyonight&hide_border=true"
        alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=mo-abdel-samie&theme=tokyonight&no-frame=true&row=1&column=7"
-       alt="GitHub Trophies" />
 
 </div>
 
