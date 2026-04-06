@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/Mohamed-a591/Mohamed-a591/blob/main/Master.png" alt="Mohamed Abdel-Samie banner" />
+  <img src="https://raw.githubusercontent.com/Mohamed-a591/Mohamed-a591/main/Master.png" alt="Mohamed Abdel-Samie banner" />
 
   <br/>
 
@@ -47,7 +47,7 @@ I'm a **Senior Software Engineer** with **4+ years of experience** building full
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mo-abdel-samie&theme=tokyonight&hide_border=true"
+  <img src="https://streak-stats.demolab.com/?user=mo-abdel-samie&theme=tokyonight&hide_border=true"
        alt="GitHub Streak" />
 
 </div>
