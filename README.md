@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohamed!;Senior+Software+Engineer;Full-Stack+%26+Desktop+Developer;4%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohamed!;Senior+Software+Engineer;Full-Stack+%26+Desktop+Developer;5%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -22,7 +22,7 @@
 
 > *"Clean code, scalable architecture, and shipping products that matter."*
 
-I'm a **Senior Software Engineer** with **4+ years of experience** building full-stack web applications, desktop tools, and cloud-connected platforms that solve real business problems. I hold a **B.Sc. in Communication & Computer Engineering** and thrive at the intersection of elegant UI, robust APIs, and DevOps automation.
+I'm a **Senior Software Engineer** with **5+ years of experience** building full-stack web applications, desktop tools, and cloud-connected platforms that solve real business problems. I hold a **B.Sc. in Communication & Computer Engineering** and thrive at the intersection of elegant UI, robust APIs, and DevOps automation.
 
 - 🔭 Currently building **scalable web & desktop applications** with React, Node.js, and Tauri
 - 🌱 Deepening expertise in **cloud-native architecture** (Azure · GCP) and **CI/CD pipelines**
